@@ -1,2 +1,1 @@
 echo "$HOME"
-echo "$SHELL"
