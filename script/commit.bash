@@ -1,5 +1,5 @@
 echo 'git config'
-git config --local user.email "web20502050xxxxxxxxx@gmail.com"
+git config --local user.email "web20502050@gmail.com"
 git config --global user.name "@0xweb7"
 date > date.txt
 git add date.txt
